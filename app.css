@@ -1,8 +1,11 @@
 body{
     background-color:#323436;
-    margin-top:10px;
-    margin-left:10px;
+    padding-left:10px;
     
+}
+
+header{
+    padding-top:40px;
 }
 
 #mainNavbar {
